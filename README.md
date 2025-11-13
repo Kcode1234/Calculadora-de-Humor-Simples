@@ -43,9 +43,6 @@ Calculando...
 O resultado é 11 😄 — Aproveite o bom humor para fazer algo produtivo hoje!!
 
 
-## 📸 Exemplo de Execução
-![Print do terminal]( /print_terminal.png)
-
 💡 O que aprendi
 Leitura de dados com input().
 Uso de condicionais (if/elif/else) para personalização.
